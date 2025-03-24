@@ -1,0 +1,37 @@
+﻿  OpenCVApplication.cpp
+C:\Users\robot\source\repos\IP_Project\OpenCVApplication.cpp(544,25): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+C:\Users\robot\source\repos\IP_Project\OpenCVApplication.cpp(544,25): warning C4244:         with
+C:\Users\robot\source\repos\IP_Project\OpenCVApplication.cpp(544,25): warning C4244:         [
+C:\Users\robot\source\repos\IP_Project\OpenCVApplication.cpp(544,25): warning C4244:             _Tp=uchar
+C:\Users\robot\source\repos\IP_Project\OpenCVApplication.cpp(544,25): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+C:\Users\robot\source\repos\IP_Project\OpenCVApplication.cpp(545,25): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+C:\Users\robot\source\repos\IP_Project\OpenCVApplication.cpp(545,25): warning C4244:         with
+C:\Users\robot\source\repos\IP_Project\OpenCVApplication.cpp(545,25): warning C4244:         [
+C:\Users\robot\source\repos\IP_Project\OpenCVApplication.cpp(545,25): warning C4244:             _Tp=uchar
+C:\Users\robot\source\repos\IP_Project\OpenCVApplication.cpp(545,25): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+C:\Users\robot\source\repos\IP_Project\OpenCVApplication.cpp(546,25): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+C:\Users\robot\source\repos\IP_Project\OpenCVApplication.cpp(546,25): warning C4244:         with
+C:\Users\robot\source\repos\IP_Project\OpenCVApplication.cpp(546,25): warning C4244:         [
+C:\Users\robot\source\repos\IP_Project\OpenCVApplication.cpp(546,25): warning C4244:             _Tp=uchar
+C:\Users\robot\source\repos\IP_Project\OpenCVApplication.cpp(546,25): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+C:\Users\robot\source\repos\IP_Project\OpenCVApplication.cpp(650,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/OpenCVApplication.cpp')
+  
+C:\Users\robot\source\repos\IP_Project\OpenCVApplication.cpp(682,68): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/OpenCVApplication.cpp')
+  
+C:\Users\robot\source\repos\IP_Project\OpenCVApplication.cpp(882,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/OpenCVApplication.cpp')
+  
+C:\Users\robot\source\repos\IP_Project\OpenCVApplication.cpp(1013,1): warning C4715: 'getSrc': not all control paths return a value
+  OpenCVApplication.vcxproj -> C:\Users\robot\source\repos\IP_Project\x64\Debug\OpenCVApplication.exe
+  OpenCV\dll\Debug\opencv_videoio_ffmpeg490_64.dll
+  OpenCV\dll\Debug\opencv_videoio_msmf490_64d.dll
+  OpenCV\dll\Debug\opencv_world490d.dll
+          3 file(s) copied.

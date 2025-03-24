@@ -1,0 +1,2 @@
+C:\Users\robot\Downloads\OpenCV_App\OpenCV_App\OpenCVApplication-VS2022_OCV490_basic\OpenCVApplication-VS2022_OCV490_basic\x64\Debug\OpenCVApplication.exe
+C:\Users\robot\source\repos\IP_Project\x64\Debug\OpenCVApplication.exe
